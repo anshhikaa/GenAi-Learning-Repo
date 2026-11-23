@@ -22,3 +22,5 @@
   ii) State preserving chain where story is generated then stored in a dict using RunnablePassThrough before passing it onto analysis prompt , then storing the analysis as well , printing both story and analysis in a single .invoke().
 
   iii) why state preserving ? The story if not stored would be lost once the analysis prompt gets executed 
+
+  Day4) Built a simple QnA chatbot using Langchain and strealit 
